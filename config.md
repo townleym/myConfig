@@ -18,4 +18,4 @@ macos has changed the default shell to `zsh`. Rather than changing the default m
 
 The venerable zenburn color theme serves me well, but the red and blue ANSI colors are too dim to be useful. So I just manually cranked those up in the iTerm profile settings.
 
-
+This link is helpful for terminal colors: <https://geoff.greer.fm/lscolors/>
